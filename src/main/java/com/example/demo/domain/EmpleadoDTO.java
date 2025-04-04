@@ -13,7 +13,7 @@ public class EmpleadoDTO {
     private Long id;
     private String nombre;
     private String apellido;
-
+    private long departamentoId;
 
 
 }
